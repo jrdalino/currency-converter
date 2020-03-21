@@ -38,7 +38,10 @@
 - if "From" Currency is the same as "To" Current, Result is the same as amount
 - else, Result = Amount * ( 1 / Currency Dictionay Exchange Rate)
 
-## Step 5: Add Button Event Listener on Click
+## Step 6: Add Button Event Listener on Click
+```
+        btn.addEventListener('click', convertCurrency);
+```
 
 ## CSS (Cascading Style Sheets)
 - Add CSS before the head and the body sections
