@@ -34,9 +34,9 @@
 - Add Try..Catch
 - Fo
 
-### Step 5: Add Convertion Math
+### Step 5: Add Conversion Math
 - if "From" Currency is the same as "To" Current, Result is the same as amount
-- else, Result = Amount * ( 1 / Currency Dictionay Exchange Rate)
+- else, Result = Amount * ( 1 / Currency Dictionary Exchange Rate)
 
 ### Step 6: Add Button Event Listener on Click
 ```
